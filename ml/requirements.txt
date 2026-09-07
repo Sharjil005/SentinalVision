@@ -1,0 +1,22 @@
+# ML/AI Dependencies
+# Install separately: pip install -r ml/requirements.txt
+
+# Core
+torch==2.2.0
+torchvision==0.17.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+
+# YOLO
+ultralytics==8.1.0
+
+# Data processing
+pandas==2.2.0
+albumentations==1.4.0
+scikit-learn==1.4.0
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Utilities
+tqdm==4.66.2
+pyyaml==6.0.1
